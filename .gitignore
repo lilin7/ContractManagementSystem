@@ -1,0 +1,29 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+2018-07-28.sql
+2018-07-28.sql
+2018-07-31.sql
+2018-08-04.sql
+2018-08-05.sql
+2018-08-08.sql
+2018-08-09-2.sql
+2018-08-09.sql
+2018-08-11-1-LIN.sql
+2018-08-12.sql
+2018.08-10.sql
+relational model.mwb
+relational model.pdf
+test_companies.sql
+2018.08-10.sql
+2018-08-08.sql
+2018-08-09-2.sql
